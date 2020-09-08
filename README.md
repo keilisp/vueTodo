@@ -36,3 +36,11 @@ Run the app
 ```sh
 npm start
 ```
+
+# Endpoints
+
+- /home - Home page
+- /todo - Page with all of the logic of todos
+- /about - About page
+- /login - Login page
+- /register - Register page
